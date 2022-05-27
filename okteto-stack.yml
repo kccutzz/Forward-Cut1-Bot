@@ -10,7 +10,7 @@ services:
       LOG_CHANNEL: -1001382755710
       DATABASE_NAME: Cluster0
       DATABASE_URI: mongodb+srv://kcforv2:kcforv2@cluster0.f3ju3.mongodb.net/?retryWrites=true&w=majority
-      TARGET_CHANNEL: -1001626690073
+      TARGET_CHANNEL: -1001624273501
       BOT_USERNAME: $BOT_USERNAME
     resources:
       cpu: 1000m
